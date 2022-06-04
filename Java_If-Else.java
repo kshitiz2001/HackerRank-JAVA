@@ -1,4 +1,4 @@
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Java If-Else"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+/*""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Java If-Else"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 
 In this challenge, we test your knowledge of using if-else conditional statements to automate decision-making processes. An if-else statement has the following logical flow:
@@ -38,11 +38,11 @@ Sample Case 0: n = 3
 n is odd and odd numbers are weird, so we print Weird.
 
 Sample Case 1: n = 24
-n>20 and n is even, so it isn't weird. Thus, we print Not Weird.
+n>20 and n is even, so it isn't weird. Thus, we print Not Weird.*/
 
 
 
-**SOLUTION**
+//**SOLUTION**//
 
 
 import java.io.*;
