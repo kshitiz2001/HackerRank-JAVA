@@ -1,4 +1,4 @@
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Java Stdin and Stdout"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+/*"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Java Stdin and Stdout"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Most HackerRank challenges require you to read input from stdin (standard input) and write output to stdout (standard output).
 
 One popular way to read input from stdin is by using the Scanner class and specifying the Input Stream as System.in. For example:
@@ -35,10 +35,10 @@ Sample Output
 
 42
 100
-125
+125*/
 
 
-**SOLUTION**
+//**SOLUTION**//
 
 import java.util.*;
 
