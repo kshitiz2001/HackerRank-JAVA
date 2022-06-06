@@ -66,7 +66,7 @@ Explanation 2
 
 Character	Frequency: Hello	Frequency: hello
 E or e	           1	               1
-H or h	           1                  1
+H or h             1                 1
 L or l	           2	               2
 O or o	           1	               1
 The two strings contain all the same letters in the same frequencies, so we print "Anagrams".*/
