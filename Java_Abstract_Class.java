@@ -24,7 +24,7 @@ Sample Output
 The title is: A tale of two cities*/
 
 
-                                                                      //SOUTION//
+                                                                      //SOLUTION//
 
 
 import java.util.*;
