@@ -17,7 +17,7 @@ Divisors of 6 are 1,2,3 and 6. 1+2+3+6=12.*/
 
 
 
-                                                                         //SOLUTION//
+                                                                          //SOLUTION//
 
 
 import java.util.*;
