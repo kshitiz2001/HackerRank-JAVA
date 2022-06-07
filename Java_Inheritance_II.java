@@ -16,8 +16,8 @@ My superclass is: Arithmetic
 42 13 20*/
 
 
-
-                                                                         //SOLUTIOn//
+  
+                                                                          //SOLUTIOn//
 
 import java.io.*;
 import java.util.*;
