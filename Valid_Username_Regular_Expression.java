@@ -41,8 +41,8 @@ Refer diagram in the challenge statement.*/
   
   
   
-  
-                                                                          //SOLUTION//
+      
+                                                                            //SOLUTION//
 
 import java.util.Scanner;
 class UsernameValidator {
