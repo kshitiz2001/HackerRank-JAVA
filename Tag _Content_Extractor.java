@@ -33,7 +33,7 @@ Imtiaz has a secret crush*/
 
 
 
-                                                                       //SOLUTION//
+                                                                          //SOLUTION//
 
 
 import java.util.Scanner;
