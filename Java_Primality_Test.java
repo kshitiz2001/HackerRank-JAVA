@@ -12,7 +12,7 @@ Output Format
 If n is a prime number, print prime; otherwise, print not prime.*/
 
 
-                                                               //SOLUTION//
+                                                                      //SOLUTION//
 
 import java.io.*;
 import java.util.*;
